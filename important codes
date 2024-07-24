@@ -1,1 +1,33 @@
-
+1)  important Label Options
+text - adds the text
+bd - background
+fg - foreground
+font - sets the fonts
+font=("comicsans",15,"bold")
+padx - x padding
+pady - y padding
+relief - border styling - SUNKEN, RAISED, GROOVE,RIDGE
+---------------------------------------------------------------------
+2) gui size decide
+root.geometry("700x700")
+root.minsize(700,500)
+---------------------------------------------------------------------
+3)to insert a photo
+process-1
+photo = PhotoImage(file="51.png")
+Label = Label(image=photo)
+Label.pack()
+-------
+#process-2
+image=Image.open("51.png")
+photo= ImageTk.PhotoImage(image)
+Label = Label(image=photo)
+Label.pack()
+-----------------------------------------------------------------------
+4)1IMPORTANT PACK OPTION
+anchor= "nw"
+side= top,bottom,left,right
+so for makinf the box on the down left corner-
+title_label.pack(side= "bottom",anchor= "nw")
+fill=x - uses for x line
+fill=y - uses for y line
