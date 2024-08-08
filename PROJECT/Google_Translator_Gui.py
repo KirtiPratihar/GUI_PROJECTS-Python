@@ -1,3 +1,4 @@
+#the code
 from deep_translator import GoogleTranslator
 import tkinter as tk
 from tkinter import messagebox
