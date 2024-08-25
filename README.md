@@ -4,7 +4,7 @@ The theory behind Python GUI (Graphical User Interface) development revolves aro
 
 1. **Graphical User Interface (GUI)**:
    - A visual interface that allows users to interact with a program through graphical elements like buttons, text fields, and icons.
-
+rf
 2. **Event-Driven Programming**:
    - A paradigm where the flow of the program is determined by events (user actions like clicks, typing, etc.).
 
