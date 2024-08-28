@@ -2,7 +2,7 @@
 The theory behind Python GUI (Graphical User Interface) development revolves around creating visual interfaces that allow users to interact with a program in a more intuitive and user-friendly way. This involves understanding various components, paradigms, and frameworks available in Python. Here’s a theoretical overview:
 ### Python GUI Introduction Theory in Points
 
-1. **Graphical User Interface (GUI)**:
+1. **Graphical User Interface (GUI)**:dmjfj
    - A visual interface that allows users to interact with a program through graphical elements like buttons, text fields, and icons.
 
 2. **Event-Driven Programming**:
