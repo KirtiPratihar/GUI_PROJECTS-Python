@@ -72,4 +72,4 @@ The theory behind Python GUI (Graphical User Interface) development revolves aro
     - **Augmented and Virtual Reality**: Exploring new interfaces beyond traditional 2D screens.
     - **Voice Interfaces**: Integrating voice commands and recognition.
     - **Natural User Interfaces (NUI)**: Gestures, touch, and other intuitive interactions.
-
+.
