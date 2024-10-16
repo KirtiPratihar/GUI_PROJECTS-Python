@@ -20,13 +20,13 @@ The theory behind Python GUI (Graphical User Interface) development revolves aro
    - Examples: grid, pack, place in Tkinter.
 
 6. **Event Loop**:
-   - A loop that waits for events and dispatches them to the appropriate event handlers.
+   - A loop that waits for events and dispatches them to the appropriate  event handlers.
    - Keeps the GUI responsive.
 
 7. **Event Handlers**:
    - Functions or methods that respond to specific events (e.g., button clicks).
 
-8. **Cross-Platform**:
+8. **Cross- Platform**:
    - Many Python GUI frameworks are cross-platform, meaning they work on multiple operating systems (Windows, macOS, Linux).
 
 9. **Popular Python GUI Frameworks**:
