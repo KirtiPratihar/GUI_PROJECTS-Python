@@ -10,7 +10,7 @@ The theory behind Python GUI (Graphical User Interface) development revolves aro
 
 3. **Widgets**:
    - Basic building blocks of a GUI (e.g., buttons, labels, text fields).
-   - Used for displaying information and receiving user input.
+   - Used for displaying information and receiving user input..
 
 4. **Window**:
    - The main container in a GUI application that holds all other widgets and components.
